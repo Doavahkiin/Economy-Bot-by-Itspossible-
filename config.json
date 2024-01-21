@@ -1,0 +1,6 @@
+{
+  "bot_token": "Bot Token",
+  "client_id": "Client Id",
+  "guild_id": "Guild Id",
+  "mongodb_uri": "Join Discord for MongoDB"
+}
